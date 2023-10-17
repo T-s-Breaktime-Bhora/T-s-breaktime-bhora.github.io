@@ -1,3 +1,3 @@
-# Breaktime Bhora
+# Breaktime B
 
 The official website.
